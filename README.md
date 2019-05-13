@@ -1,6 +1,5 @@
-## NOTE: Disconnect24 is no longer in service.
-If you wish to reconnect your Wii to an alt-WC24, simply don't. There are no appropiate alternatives that you should use or support.
+# DC24 Gravestone
+> This page is under construction. Check back for updates.
 
-## Why not?
-Because RiiConnect24's current head developer doesn't like it when a group of people decide that it's a good idea to fix faulty management, dodgy bahaviour and a broken service.
-> This page will be updated with a full timeline of Disconnect24's life, where it cannot be censored, regardless of how much Larsen tries to edit the Wiki page.
+## Where did we go?
+We thought it would be better if we put Disconnect24 to rest. Enough was enough, and it's clear that RiiConnect24 never really cared about improving their service until we decided to step in and create faster, safer and genuinely open-source software that welcomes change.
